@@ -3,7 +3,7 @@
 This is a full-stack, AI-powered study assistant built on Cloudflare's developer platform. It remembers the context of your conversation to help you study effectively.
 
 ## 🚀 Live Demo
-[Click here to chat with the AI Study Buddy](https://cf-ai-studybot.gunasheela13.workers.dev)
+[Click here to chat with the AI Study Buddy](https://cf-ai-studybot.gunasheelajo13.workers.dev)
 
 ## 🛠️ Architecture & Components
 This project fulfills all the requirements of the Cloudflare AI App assignment:
